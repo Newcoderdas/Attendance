@@ -1,0 +1,58 @@
+{
+    "Students": [{
+            "image": "https://scontent.fkhi2-3.fna.fbcdn.net/v/t39.30808-1/438163156_7576506089076967_454910926895621048_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFOgvuJqLPkMY3qrFgbF6aR81Po07OKoibzU-jTs4qiJtHOknZhxl6v_HphpI6FAi7Y46zothi__FN8nYARkA-T&_nc_ohc=TktSGCP-XX8Q7kNvgFLPoS_&_nc_ht=scontent.fkhi2-3.fna&oh=00_AYAFcTj1hoB02iBQchHfB-IcKyXIsuiVbb9mtslssQErqA&oe=665BEDB7",
+            "id": 51037,
+            "name": "Rizwan",
+            "year": 2020,
+            "Degree": "BSSE",
+            "isFeature": true
+
+        },
+        {
+            "image": "https://media.licdn.com/dms/image/D5603AQGzc0JhxaQNdQ/profile-displayphoto-shrink_400_400/0/1678052908841?e=1722470400&v=beta&t=eVsnFp7RxtpKa41rkkB1-f5vBXDY_G4w5tc9HhjXT3Y",
+            "id": 52893,
+            "name": "Hammad",
+            "year": 2020,
+            "Degree": "BSSE",
+            "isFeature": true
+
+        },
+        {
+            "image": "https://media.licdn.com/dms/image/D4D03AQF9GHrPwsmh_g/profile-displayphoto-shrink_400_400/0/1702635292780?e=1722470400&v=beta&t=fr4tsbl0k7Hjz72QiSeSiVN-dlGMnmFsy97jdOLYjmU",
+            "id": 54001,
+            "name": "Musab",
+            "year": 2020,
+            "Degree": "BSSE",
+            "isFeature": true
+
+        },
+        {
+            "image": "https://media.licdn.com/dms/image/D4D03AQGGnpMQWsMurQ/profile-displayphoto-shrink_400_400/0/1667276567475?e=1722470400&v=beta&t=mOtoo79QPYj4OH7qIjIa9IKA2Ge9Gkwzdkn-L01ckDU",
+            "id": 42000,
+            "name": "Danish",
+            "year": 2020,
+            "Degree": "BSSE",
+            "isFeature": true
+
+        },
+        {
+            "image": "https://media.licdn.com/dms/image/D4D03AQEQyMT617gE4Q/profile-displayphoto-shrink_400_400/0/1707495369795?e=1722470400&v=beta&t=zVHsRLj4w1AMMohCvdjhbFSmIEdX0uLQgvMh5_FQuX4",
+            "id": 66655,
+            "name": "Unzila Rizwan",
+            "year": 2020,
+            "Degree": "BSSE",
+            "isFeature": true
+
+        },
+        {
+            "image": "https://media.licdn.com/dms/image/D4D03AQExsI9nwzyxJA/profile-displayphoto-shrink_400_400/0/1713375751299?e=1722470400&v=beta&t=jde9ecISgNunWKgOL_em7Adw3B0kJOnvr6faY_5GHJQ",
+            "id": 420100,
+            "name": "Sakina Musab",
+            "year": 2020,
+            "Degree": "BSAI",
+            "isFeature": true
+
+        }
+    ]
+
+}
